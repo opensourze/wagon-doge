@@ -10,4 +10,4 @@ Encounter fire, missiles and maybe some... water?
 Browser version for computers (click to start playing): www.k-studios.cf
 
 Or get it for Android:  
-<a href='https://play.google.com/store/apps/details?id=com.KStudios.WagonDog&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="25%" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>  
+<a href='https://play.google.com/store/apps/details?id=com.KStudios.WagonDog&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="35%" alt='Get Wagon Doge on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>  
