@@ -12,4 +12,4 @@ Guarenteed to give you goosebumps
 Wagon doges is this really nice game which you can download from the playstore for android here: https://play.google.com/store/apps/details?id=com.KStudios.WagonDog
 Or, if you are lazy, or don't own an android phone, you can totally play the online version here: 
 
-                                                              **www.K-Studios.cf**
+                                                             www.K-Studios.cf
