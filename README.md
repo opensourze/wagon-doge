@@ -5,7 +5,7 @@ Doges are hungry, what can you do?
 Duh, get the food back, of course!  
 Then do it, via this gamified version of the journey.  
 Encounter fire, missiles and maybe some... water?  
-**Guaranteed to give you goosebumps!**  
+### Guaranteed to give you goosebumps!  
 ## Play it!  
 Browser version for computers (click to start playing): www.k-studios.cf
 
